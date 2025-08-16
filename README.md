@@ -37,8 +37,9 @@ Endpoint	HTTP Method	Description	Access
 /api/videos/{id}	PUT	Updates an existing video.	ADMIN Only
 /api/videos/{id}	DELETE	Deletes a video.	ADMIN Only
 
+
 🛠️ Tech Stack
-Framework: Spring Boot (3.x)
+Framework: Spring Boot
 
 Security: Spring Security
 
